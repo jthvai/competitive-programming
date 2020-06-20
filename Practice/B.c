@@ -19,7 +19,7 @@ int main(void) {
   if (N > 5)
     mergesort(ans, 0, N - 1);
   else
-    return 1; // !DO Hardcode something for case 3
+    return 1; // !DO See below
 
   printf("! %s\n", ans);
   free(ans);
@@ -78,3 +78,23 @@ void merge(char s[], int lo, int mi, int hi) {
     k++;
   }
 }
+
+/* Stupid Hardcoded Solution
+ * https://www.techiedelight.com/implement-graph-data-structure-c/
+ *
+ * V = {A...E}, |E| = 10
+ *
+ * Select a random vertex A
+ * Evaluate two incident edges
+ * Evaluate resulting edges by transitivity
+ *
+ * Select a vertex B adjacent to A
+ * Evaluate two edges incident to B, not previously seen
+ * Evaluate resulting edges by transitivity
+ *
+ * Select a vertext C adjacent to B, but not A
+ * Evaluate any remaining edges incident to C
+ * Evaluate resulting edges by transitivity
+ *
+ * Evaluate any remaining edges
+ */
