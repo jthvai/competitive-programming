@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: X11
-// 2020-06-21 (In Contest)
+// 2020-06-21 (Live)
 
 #include <stdio.h>
 
