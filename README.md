@@ -9,6 +9,7 @@ Find my profile at [`jthvai`](https://codeforces.com/profile/jthvai).
 
 | ID              | Date       | Name
 | ---             | ---        | ---
+| [1374](./1374/) | 2020-06-29 | [Codeforces Round #653 (Div. 3)](https://codeforces.com/contests/1374)
 | [1370](./1370/) | 2020-06-21 | [Codeforces Round #651 (Div. 2)](https://codeforces.com/contests/1370)
 
 ## License
