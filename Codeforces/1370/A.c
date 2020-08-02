@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-21 (Live)
+// Maximum GCD
 
 #include <stdio.h>
 

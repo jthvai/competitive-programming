@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-28
+// Sum of Divisors
 
 #include <stdio.h>
 

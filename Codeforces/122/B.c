@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-22
+// Lucky Substring
 
 #include <stdio.h>
 #include <stdlib.h>
