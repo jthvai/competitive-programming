@@ -7,6 +7,8 @@ This repository includes solutions, in their respective directories, for:
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 - [Codeforces](https://codeforces.com/) ([Profile](https://codeforces.com/profile/jthvai))
 
+Some commonly used code snippets are also included in [Snippets](./Snippets/).
+
 ## Live Contests
 
 (Reverse chronological order)
