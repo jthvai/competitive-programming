@@ -6,6 +6,7 @@ This repository includes solutions, in their respective directories, for:
 - [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users/jthvai))
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 - [Codeforces](https://codeforces.com/) ([Profile](https://codeforces.com/profile/jthvai))
+- [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
 Some commonly used code snippets are also included in [Snippets](./Snippets/).
 
