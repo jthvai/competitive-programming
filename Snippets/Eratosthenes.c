@@ -4,8 +4,8 @@
 
 #include <stdlib.h>
 
-unsigned char *erato(unsigned long long bound) {
-  unsigned char *array = calloc(bound, 1);
+char *erato(unsigned long long bound) {
+  char *array = calloc(bound, 1);
   unsigned long long i,j;
   unsigned char s,ss;
 
