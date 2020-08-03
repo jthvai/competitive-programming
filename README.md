@@ -13,11 +13,11 @@ This repository includes solutions, in their respective directories, for:
 
 | Directory                             | Solved (Live) | Name
 | ---                                   | ---           | ---
-| [AtCoder/ABC174](./AtCoder/ABC174/)   | A, B          | [AtCoder Beginner Contest 174](https://atcoder.jp/contests/abc174)
-| [Codeforces/1374](./Codeforces/1374/) | A             | [Codeforces Round #653 (Div. 3)](https://codeforces.com/contests/1374)
-| [AtCoder/ABC172](./AtCoder/ABC172/)   | A, B          | [AtCoder Beginner Contest 172](https://atcoder.jp/contests/abc172)
-| [AtCoder/ABC171](./AtCoder/ABC171/)   | A, B, D       | [AtCoder Beginner Contest 171](https://atcoder.jp/contests/abc171)
-| [Codeforces/1370](./Codeforces/1370/) | A             | [Codeforces Round #651 (Div. 2)](https://codeforces.com/contests/1370)
+| [AtCoder/ABC174](./AtCoder/ABC174/)   | (2/6) A, B    | [AtCoder Beginner Contest 174](https://atcoder.jp/contests/abc174)
+| [Codeforces/1374](./Codeforces/1374/) | (1/7) A       | [Codeforces Round #653 (Div. 3)](https://codeforces.com/contests/1374)
+| [AtCoder/ABC172](./AtCoder/ABC172/)   | (2/6) A, B    | [AtCoder Beginner Contest 172](https://atcoder.jp/contests/abc172)
+| [AtCoder/ABC171](./AtCoder/ABC171/)   | (3/6) A, B, D | [AtCoder Beginner Contest 171](https://atcoder.jp/contests/abc171)
+| [Codeforces/1370](./Codeforces/1370/) | (1/7) A       | [Codeforces Round #651 (Div. 2)](https://codeforces.com/contests/1370)
 
 ## License
 
