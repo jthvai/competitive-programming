@@ -2,9 +2,11 @@
 // 2020-08-03
 // Integer Exponentiation
 
-long long iexp(long long x, unsigned long long n) {
+long long iexp(long long x, unsigned char n) {
   if (x == 0 || x == 1 || n == 1)
     return x;
+  if (n == 0)
+    return 1;
   if (n == 2)
     return x * x;
 
@@ -16,11 +18,9 @@ long long iexp(long long x, unsigned long long n) {
       return xs * xs;
   }
   else {
-    char i = 0;
-    while (!(x % 2)) {
+    char i;
+    for (i = 0; !(x % 2); i++)
       x >>= 1;
-      i++;
-    }
     return iexp(x, n) << i * n;
   }
 }
