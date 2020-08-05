@@ -8,7 +8,9 @@ This repository includes solutions, in their respective directories, for:
 - [Codeforces](https://codeforces.com/) ([Profile](https://codeforces.com/profile/jthvai))
 - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
-Some commonly used code snippets are also included in [Snippets](./Snippets/).
+Some code snippets are also included in [Snippets](./Snippets/).
+
+See [INDEX](./INDEX.txt) for the structure of this repository with all directories and files.
 
 ## Live Contests
 

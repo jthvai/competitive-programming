@@ -1,0 +1,42 @@
+.
+├── AtCoder
+│   ├── ABC171
+│   │   ├── A.c
+│   │   ├── B.c
+│   │   └── D.c
+│   ├── ABC172
+│   │   ├── A.c
+│   │   ├── B.c
+│   │   └── D.c
+│   ├── ABC173
+│   │   ├── A.jl
+│   │   └── B.jl
+│   ├── ABC174
+│   │   ├── A.c
+│   │   ├── B.c
+│   │   └── C.c
+│   └── Practice
+│       ├── A.c
+│       └── B.c
+├── Code Jam
+│   └── 2019
+│       └── Qualification
+│           └── A.c
+├── Codeforces
+│   ├── 122
+│   │   └── B.c
+│   ├── 1370
+│   │   └── A.c
+│   ├── 1374
+│   │   └── A.c
+│   └── 4
+│       └── A.hs
+├── Kick Start
+│   └── 2020
+│       └── A
+│           └── A.c
+└── Snippets
+    ├── Eratosthenes.c
+    └── IntExp.c
+
+18 directories, 21 files
