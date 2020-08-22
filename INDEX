@@ -34,12 +34,9 @@
 │   │   └── A.c
 │   └── 4
 │       └── A.hs
-├── Kick Start
-│   └── 2020
-│       └── A
-│           └── A.c
-└── Snippets
-    ├── Eratosthenes.c
-    └── IntExp.c
+└── Kick Start
+    └── 2020
+        └── A
+            └── A.c
 
-19 directories, 23 files
+18 directories, 21 files
