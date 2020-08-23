@@ -36,7 +36,9 @@
 │       └── A.hs
 └── Kick Start
     └── 2020
-        └── A
+        ├── A
+        │   └── A.c
+        └── E
             └── A.c
 
-18 directories, 21 files
+19 directories, 22 files

@@ -19,14 +19,15 @@ See [INDEX](./INDEX) for the structure of this repository with all directories a
 
 (Reverse chronological order)
 
-| Directory                             | Solved (Live) | Name
-| ---                                   | ---           | ---
-| [AtCoder/ABC175](./AtCoder/ABC175/)   | (2/6) A, C    | [AtCoder Beginner Contest 175](https://atcoder.jp/contests/abc175)
-| [AtCoder/ABC174](./AtCoder/ABC174/)   | (2/6) A, B    | [AtCoder Beginner Contest 174](https://atcoder.jp/contests/abc174)
-| [Codeforces/1374](./Codeforces/1374/) | (1/7) A       | [Codeforces Round #653 (Div. 3)](https://codeforces.com/contests/1374)
-| [AtCoder/ABC172](./AtCoder/ABC172/)   | (2/6) A, B    | [AtCoder Beginner Contest 172](https://atcoder.jp/contests/abc172)
-| [AtCoder/ABC171](./AtCoder/ABC171/)   | (3/6) A, B, D | [AtCoder Beginner Contest 171](https://atcoder.jp/contests/abc171)
-| [Codeforces/1370](./Codeforces/1370/) | (1/7) A       | [Codeforces Round #651 (Div. 2)](https://codeforces.com/contests/1370)
+| Directory                                   | Solved (Live) | Name
+| ---                                         | ---           | ---
+| [Kick Start/2020/E](./Kick%20Start/2020/E/) | (1/4) A       | [Kick Start Round E 2020](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47)
+| [AtCoder/ABC175](./AtCoder/ABC175/)         | (2/6) A, C    | [AtCoder Beginner Contest 175](https://atcoder.jp/contests/abc175)
+| [AtCoder/ABC174](./AtCoder/ABC174/)         | (2/6) A, B    | [AtCoder Beginner Contest 174](https://atcoder.jp/contests/abc174)
+| [Codeforces/1374](./Codeforces/1374/)       | (1/7) A       | [Codeforces Round #653 (Div. 3)](https://codeforces.com/contests/1374)
+| [AtCoder/ABC172](./AtCoder/ABC172/)         | (2/6) A, B    | [AtCoder Beginner Contest 172](https://atcoder.jp/contests/abc172)
+| [AtCoder/ABC171](./AtCoder/ABC171/)         | (3/6) A, B, D | [AtCoder Beginner Contest 171](https://atcoder.jp/contests/abc171)
+| [Codeforces/1370](./Codeforces/1370/)       | (1/7) A       | [Codeforces Round #651 (Div. 2)](https://codeforces.com/contests/1370)
 
 ## License
 
