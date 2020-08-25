@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: X11
 # 2020-07-30
-# Payment
+# Payment (100pt)
 
 const BILL = 1000
 N = parse(Int,readline())

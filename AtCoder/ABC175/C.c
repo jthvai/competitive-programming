@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-08-15 (Live)
+// Walking Takahashi (300pt)
 
 #include <stdio.h>
 

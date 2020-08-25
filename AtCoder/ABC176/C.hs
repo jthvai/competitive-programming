@@ -1,6 +1,6 @@
 -- SPDX-License-Identifier: X11
 -- 2020-08-23
--- Step
+-- Step (300pt)
 
 module Main where
 

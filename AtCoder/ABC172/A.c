@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-27 (Live)
-// Calc
+// Calc (100pt)
 
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-28
-// Sum of Divisors
+// Sum of Divisors (400pt)
 
 #include <stdio.h>
 

@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-08-02 (Live)
-// Air Conditioner
+// Air Conditioner (100pt)
 
 #include <stdio.h>
 

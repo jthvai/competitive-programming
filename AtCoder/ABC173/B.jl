@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: X11
 # 2020-07-30
-# Judge Status Summary
+# Judge Status Summary (200pt)
 
 N = parse(Int,readline())
 S = readlines()

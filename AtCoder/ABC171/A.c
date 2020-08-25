@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-21 (Live)
-// αlphabet
+// αlphabet (100pt)
 
 #include <stdio.h>
 

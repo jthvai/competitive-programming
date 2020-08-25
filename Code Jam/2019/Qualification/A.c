@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-08-03
-// Foregone Solution
+// Foregone Solution (6pt, 10pt, 1pt)
 
 #include <ctype.h>
 #include <stdio.h>

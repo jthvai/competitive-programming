@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-06-21 (Live)
-// Mix Juice
+// Mix Juice (200pt)
 
 #include <stdio.h>
 #include <stdlib.h>

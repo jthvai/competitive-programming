@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-08-23 (Live)
-// Longest Arithmetic
+// Longest Arithmetic (4pt, 7pt)
 
 #include <stdio.h>
 
