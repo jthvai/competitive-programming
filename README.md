@@ -13,7 +13,8 @@ See [INDEX](./INDEX) for the structure of this repository with all directories a
 ## Snippets
 
 - [`Eratosthenes.c`](https://gist.github.com/jthvai/de9c2a5d6306016b684c5343f0eebacd): Sieve of Eratosthenes, implemented with a 2-3 wheel.
-- [`IntExp.c`]([./IntExp.c](https://gist.github.com/jthvai/6366f2bec88fc26adf23292106c26dd5)): Integer exponentiation via squaring with hefty abuse of bitwise shifts.
+- [`IntExp.c`](https://gist.github.com/jthvai/6366f2bec88fc26adf23292106c26dd5): Integer exponentiation via squaring with hefty abuse of bitwise shifts.
+- [`Mergesort.c`](https://gist.github.com/jthvai/dc9c9ec09b5f2f223b7a383c5575d595): Polymorphic mergesort for arrays of any primitive or `struct`.
 
 ## Live Contests
 
