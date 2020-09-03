@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: X11 -->
 # Project Euler
 
-[Project Euler](https://projecteuler.net/) problems solved (12/723).
+[Project Euler](https://projecteuler.net/) problems solved (18/723).
 
 | ID  | Solved     | Language | Name
 | --- | ---        | ---      | ---
@@ -19,4 +19,7 @@
 | 12  | 2020-09-03 | Julia    | [Highly divisible triangular number](https://projecteuler.net/problem=12)
 | 13  | 2020-09-03 | Julia    | [Large sum](https://projecteuler.net/problem=13)
 | 14  | 2020-09-03 | Julia    | [Longest Collatz sequence](https://projecteuler.net/problem=14)
+| 15  | 2020-09-03 | Julia    | [Lattice paths](https://projecteuler.net/problem=15)
+| 16  | 2020-09-03 | Julia    | [Power digit sum](https://projecteuler.net/problem=16)
+| 17  | 2020-09-03 | Julia    | [Number letter counts](https://projecteuler.net/problem=17)
 | 37  | 2020-08-14 | C        | [Truncatable primes](https://projecteuler.net/problem=37)
