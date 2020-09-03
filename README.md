@@ -9,7 +9,11 @@ This repository includes solutions, in their respective directories, for:
 - [CS Academy](https://csacademy.com/) ([Profile](https://csacademy.com/user/jthvai))
 - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
 
-See [INDEX](./INDEX) for the structure of this repository with all directories and files.
+as well as some information about puzzles for which I'm not allowed to release solutions:
+
+- [Project Euler.md](./Project%20Euler.md), for [Project Euler](https://projecteuler.net/)
+
+See [INDEX](./INDEX) for the structure of this repository with all source files.
 
 ## Snippets
 

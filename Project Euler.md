@@ -1,0 +1,19 @@
+<!-- SPDX-License-Identifier: X11 -->
+# Project Euler
+
+[Project Euler](https://projecteuler.net/) problems solved (12/723).
+
+| ID  | Solved     | Language | Name
+| --- | ---        | ---      | ---
+| 1   | 2019-08-17 | C        | [Multiples of 3 and 5](https://projecteuler.net/problem=1)
+| 2   | 2019-08-17 | C        | [Even Fibonacci numbers](https://projecteuler.net/problem=2)
+| 3   | 2020-06-19 | Haskell  | [Largest prime factor](https://projecteuler.net/problem=3)
+| 4   | 2020-06-19 | Haskell  | [Largest palindrome product](https://projecteuler.net/problem=4)
+| 5   | 2020-06-19 | Haskell  | [Smallest multiple](https://projecteuler.net/problem=5)
+| 6   | 2020-06-19 | Haskell  | [Sum square difference](https://projecteuler.net/problem=6)
+| 7   | 2020-06-19 | C        | [10001st prime](https://projecteuler.net/problem=7)
+| 8   | 2020-06-19 | Haskell  | [Largest product in a series](https://projecteuler.net/problem=8)
+| 9   | 2020-06-19 | Haskell  | [Special Pythagorean triplet](https://projecteuler.net/problem=9)
+| 10  | 2020-06-19 | C        | [Summation of primes](https://projecteuler.net/problem=10)
+| 11  | 2020-06-22 | Julia    | [Largest product in a grid](https://projecteuler.net/problem=11)
+| 37  | 2020-08-14 | C        | [Truncatable primes](https://projecteuler.net/problem=37)
