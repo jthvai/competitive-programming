@@ -16,4 +16,7 @@
 | 9   | 2020-06-19 | Haskell  | [Special Pythagorean triplet](https://projecteuler.net/problem=9)
 | 10  | 2020-06-19 | C        | [Summation of primes](https://projecteuler.net/problem=10)
 | 11  | 2020-06-22 | Julia    | [Largest product in a grid](https://projecteuler.net/problem=11)
+| 12  | 2020-09-03 | Julia    | [Highly divisible triangular number](https://projecteuler.net/problem=12)
+| 13  | 2020-09-03 | Julia    | [Large sum](https://projecteuler.net/problem=13)
+| 14  | 2020-09-03 | Julia    | [Longest Collatz sequence](https://projecteuler.net/problem=14)
 | 37  | 2020-08-14 | C        | [Truncatable primes](https://projecteuler.net/problem=37)
