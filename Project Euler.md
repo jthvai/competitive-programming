@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: X11 -->
 # Project Euler
 
-[Project Euler](https://projecteuler.net/) problems solved (18/723).
+[Project Euler](https://projecteuler.net/) problems solved (22/723).
 
 | ID  | Solved     | Language | Name
 | --- | ---        | ---      | ---
@@ -22,4 +22,8 @@
 | 15  | 2020-09-03 | Julia    | [Lattice paths](https://projecteuler.net/problem=15)
 | 16  | 2020-09-03 | Julia    | [Power digit sum](https://projecteuler.net/problem=16)
 | 17  | 2020-09-03 | Julia    | [Number letter counts](https://projecteuler.net/problem=17)
+| 18  | 2020-09-04 | Julia    | [Maximum path sum I](https://projecteuler.net/problem=18)
+| 19  | 2020-09-04 | Julia    | [Counting Sundays](https://projecteuler.net/problem=19)
+| 20  | 2020-09-04 | Julia    | [Factorial digit sum](https://projecteuler.net/problem=20)
 | 37  | 2020-08-14 | C        | [Truncatable primes](https://projecteuler.net/problem=37)
+| 67  | 2020-09-04 | Julia    | [Maximum path sum II](https://projecteuler.net/problem=67)
