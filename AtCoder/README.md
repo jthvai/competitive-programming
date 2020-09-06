@@ -6,7 +6,7 @@ Solutions for [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users
 | Directory                                 | Solved              | Name
 | ---                                       | ---                 | ---
 | [Practice](./Practice/)                   | (1/2) A             | [practice contest](https://atcoder.jp/contests/practice)
-| [ABC001](./ABC001/)                       | (1/4) A             | [AtCoder Beginner Contest 001](https://atcoder.jp/contests/abc001)
+| [ABC001](./ABC001/)                       | (4/4) A, B, C, D    | [AtCoder Beginner Contest 001](https://atcoder.jp/contests/abc001)
 | [ABC111 & ARC103](./ABC111%20&%20ARC103/) | (1/6) C             | [AtCoder Beginner Contest 111](https://atcoder.jp/contests/abc111) & [AtCoder Regular Contest 103](https://atcoder.jp/contests/arc103)
 | [ABC169](./ABC169/)                       | (3/6) A, B, C       | [AtCoder Beginner Contest 169](https://atcoder.jp/contests/abc169)
 | [ABC170](./ABC170/)                       | (3/6) A, B, C       | [AtCoder Beginner Contest 170](https://atcoder.jp/contests/abc170)
