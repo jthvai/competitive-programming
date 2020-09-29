@@ -25,5 +25,6 @@
 | 18  | 2020-09-04 | Julia    | [Maximum path sum I](https://projecteuler.net/problem=18)
 | 19  | 2020-09-04 | Julia    | [Counting Sundays](https://projecteuler.net/problem=19)
 | 20  | 2020-09-04 | Julia    | [Factorial digit sum](https://projecteuler.net/problem=20)
+| 21  | 2020-09-29 | Julia    | [Amicable numbers](https://projecteuler.net/problem=21)
 | 37  | 2020-08-14 | C        | [Truncatable primes](https://projecteuler.net/problem=37)
 | 67  | 2020-09-04 | Julia    | [Maximum path sum II](https://projecteuler.net/problem=67)
