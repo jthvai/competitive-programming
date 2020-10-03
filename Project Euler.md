@@ -1,7 +1,9 @@
 <!-- SPDX-License-Identifier: X11 -->
 # Project Euler
 
-[Project Euler](https://projecteuler.net/) problems solved (24/727).
+[Project Euler](https://projecteuler.net/) problems solved.
+
+![Badge](https://projecteuler.net/profile/jthvai.png)
 
 | ID  | Date       | Rating | Language | Name
 | --- | ---        | ---    | ---      | ---
@@ -27,5 +29,6 @@
 | 20  | 2020-09-04 | 5%     | Julia    | [Factorial digit sum](https://projecteuler.net/problem=20)
 | 21  | 2020-09-29 | 5%     | Julia    | [Amicable numbers](https://projecteuler.net/problem=21)
 | 22  | 2020-10-02 | 5%     | Julia    | [Names scores](https://projecteuler.net/problem=22)
+| 23  | 2020-10-04 | 5%     | Julia    | [Non-abundant sums](https://projecteuler.net/problem=23)
 | 37  | 2020-08-14 | 5%     | C        | [Truncatable primes](https://projecteuler.net/problem=37)
 | 67  | 2020-09-04 | 5%     | Julia    | [Maximum path sum II](https://projecteuler.net/problem=67)
