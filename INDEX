@@ -5,7 +5,7 @@
 │   │   ├── B.c
 │   │   ├── C.c
 │   │   └── D.c
-│   ├── ABC111 & ARC103
+│   ├── ABC111_&_ARC103
 │   │   └── C.hs
 │   ├── ABC168
 │   │   ├── A.hs
@@ -62,10 +62,10 @@
 │       ├── A.c
 │       ├── B.c
 │       └── B.jl
-├── CS Academy
+├── CS_Academy
 │   └── Archive
 │       └── Odd Sum.c
-├── Code Jam
+├── Code_Jam
 │   └── 2019
 │       └── Qualification
 │           └── A.c
@@ -80,7 +80,7 @@
 │   │   └── A.hs
 │   └── 4
 │       └── A.hs
-└── Kick Start
+└── Kick_Start
     └── 2020
         ├── A
         │   └── A.c
