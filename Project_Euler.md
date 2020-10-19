@@ -30,5 +30,6 @@
 | 21  | 2020-09-29 | 5%     | Julia    | [Amicable numbers](https://projecteuler.net/problem=21)
 | 22  | 2020-10-02 | 5%     | Julia    | [Names scores](https://projecteuler.net/problem=22)
 | 23  | 2020-10-04 | 5%     | Julia    | [Non-abundant sums](https://projecteuler.net/problem=23)
+| 24  | 2020-10-19 | 5%     | Julia    | [Lexicographic permutations](https://projecteuler.net/problem=24)
 | 37  | 2020-08-14 | 5%     | C        | [Truncatable primes](https://projecteuler.net/problem=37)
 | 67  | 2020-09-04 | 5%     | Julia    | [Maximum path sum II](https://projecteuler.net/problem=67)
