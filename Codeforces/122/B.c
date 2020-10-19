@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: X11
-// 2020-06-22
+// 2020-06-22 (Timed)
 // Lucky Substring
 
 #include <stdio.h>

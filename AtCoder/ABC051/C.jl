@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: X11
-# 2020-10-18 (Unofficial Live)
+# 2020-10-18 (Timed)
 # Back and Forth (300pt)
 
 sx, sy, tx, ty = parse.(Int, split(readline()))

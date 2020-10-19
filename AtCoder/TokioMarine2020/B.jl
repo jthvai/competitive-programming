@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: X11
-# 2020-10-18 (Unofficial Live)
+# 2020-10-18 (Timed)
 # Tag (200pt)
 
 A, V = parse.(Int, split(readline()))
