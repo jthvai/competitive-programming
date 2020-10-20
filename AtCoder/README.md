@@ -24,4 +24,6 @@ Solutions for [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users
 | [ABC177](./ABC177/)                   | (3/6) A, C, E       | [AtCoder Beginner Contest 177](https://atcoder.jp/contests/abc177)
 | [ABC178](./ABC178/)                   | (3/6) A, B, E       | [AtCoder Beginner Contest 178](https://atcoder.jp/contests/abc178)
 | [ABC179](./ABC179/)                   | (2/6) A, B          | [AtCoder Beginner Contest 179](https://atcoder.jp/contests/abc179)
+| [ARC104](./ARC104/)                   | (1/6) A             | [AtCoder Regular Contest 104](https://atcoder.jp/contests/arc104)
+| [HKKB2020](./HKKB2020/)               | (1/6) A             | [HHKB Programming Contest 2020](https://atcoder.jp/contests/hhkb2020)
 | [ABC180](./ABC180/)                   | (3/6) A, B, C       | [AtCoder Beginner Contest 180](https://atcoder.jp/contests/abc180)
