@@ -1,124 +1,124 @@
 .
-├── AtCoder
-│   ├── ABC001
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   ├── C.c
-│   │   └── D.c
-│   ├── ABC002
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   └── C.c
-│   ├── ABC047_&_ARC063
-│   │   └── C.hs
-│   ├── ABC051
-│   │   └── C.jl
-│   ├── ABC111_&_ARC103
-│   │   └── C.hs
-│   ├── ABC153
-│   │   └── A.jl
-│   ├── ABC168
-│   │   ├── A.hs
-│   │   ├── B.hs
-│   │   └── C.jl
-│   ├── ABC169
-│   │   ├── A.jl
-│   │   ├── B.jl
-│   │   └── C.jl
-│   ├── ABC170
-│   │   ├── A.jl
-│   │   ├── B.jl
-│   │   └── C.jl
-│   ├── ABC171
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   ├── C.jl
-│   │   ├── D.c
-│   │   └── E.c
-│   ├── ABC172
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   ├── C.jl
-│   │   └── D.c
-│   ├── ABC173
-│   │   ├── A.jl
-│   │   ├── B.jl
-│   │   └── E.jl
-│   ├── ABC174
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   ├── C.c
-│   │   └── D.jl
-│   ├── ABC175
-│   │   ├── A.c
-│   │   ├── B.jl
-│   │   └── C.c
-│   ├── ABC176
-│   │   ├── A.hs
-│   │   ├── B.hs
-│   │   └── C.hs
-│   ├── ABC177
-│   │   ├── A.jl
-│   │   ├── C.jl
-│   │   └── E.c
-│   ├── ABC178
-│   │   ├── A.jl
-│   │   ├── B.jl
-│   │   └── E.jl
-│   ├── ABC179
-│   │   ├── A.hs
-│   │   └── B.hs
-│   ├── ABC180
-│   │   ├── A.hs
-│   │   ├── B.jl
-│   │   └── C.jl
-│   ├── ABC181
-│   │   ├── A.hs
-│   │   ├── B.jl
-│   │   ├── C.jl
-│   │   └── D.jl
-│   ├── ABC182
-│   │   ├── A.hs
-│   │   ├── B.jl
-│   │   └── E.jl
-│   ├── ARC104
-│   │   └── A.hs
-│   ├── DP
-│   │   ├── A.jl
-│   │   └── B.jl
-│   ├── HKKB2020
-│   │   └── A.hs
-│   ├── Practice
-│   │   ├── A.c
-│   │   ├── B.c
-│   │   └── B.jl
-│   └── TokioMarine2020
-│       └── B.jl
-├── CS_Academy
-│   └── Archive
-│       └── Odd Sum.c
-├── Code_Jam
-│   └── 2019
-│       └── Qualification
-│           └── A.c
-├── Codeforces
-│   ├── 122
-│   │   └── B.c
-│   ├── 1370
-│   │   └── A.c
-│   ├── 1374
-│   │   └── A.c
-│   ├── 1399
-│   │   └── A.hs
-│   └── 4
-│       └── A.hs
-└── Kick_Start
-    └── 2020
-        ├── A
-        │   └── A.c
-        ├── E
-        │   └── A.c
-        └── F
-            └── A.jl
+|-- AtCoder
+|   |-- ABC001
+|   |   |-- A.c
+|   |   |-- B.c
+|   |   |-- C.c
+|   |   `-- D.c
+|   |-- ABC002
+|   |   |-- A.c
+|   |   |-- B.c
+|   |   |-- C.c
+|   |   `-- D.c
+|   |-- ABC047_&_ARC063
+|   |   `-- C.hs
+|   |-- ABC051
+|   |   `-- C.jl
+|   |-- ABC111_&_ARC103
+|   |   `-- C.hs
+|   |-- ABC153
+|   |   `-- A.jl
+|   |-- ABC168
+|   |   |-- A.hs
+|   |   |-- B.hs
+|   |   `-- C.jl
+|   |-- ABC169
+|   |   |-- A.jl
+|   |   |-- B.jl
+|   |   `-- C.jl
+|   |-- ABC170
+|   |   |-- A.jl
+|   |   |-- B.jl
+|   |   `-- C.jl
+|   |-- ABC171
+|   |   |-- A.c
+|   |   |-- B.c
+|   |   |-- C.jl
+|   |   |-- D.c
+|   |   `-- E.c
+|   |-- ABC172
+|   |   |-- A.c
+|   |   |-- B.c
+|   |   |-- C.jl
+|   |   `-- D.c
+|   |-- ABC173
+|   |   |-- A.jl
+|   |   |-- B.jl
+|   |   `-- E.jl
+|   |-- ABC174
+|   |   |-- A.c
+|   |   |-- B.c
+|   |   |-- C.c
+|   |   `-- D.jl
+|   |-- ABC175
+|   |   |-- A.c
+|   |   |-- B.jl
+|   |   `-- C.c
+|   |-- ABC176
+|   |   |-- A.hs
+|   |   |-- B.hs
+|   |   `-- C.hs
+|   |-- ABC177
+|   |   |-- A.jl
+|   |   |-- C.jl
+|   |   `-- E.c
+|   |-- ABC178
+|   |   |-- A.jl
+|   |   |-- B.jl
+|   |   `-- E.jl
+|   |-- ABC179
+|   |   |-- A.hs
+|   |   `-- B.hs
+|   |-- ABC180
+|   |   |-- A.hs
+|   |   |-- B.jl
+|   |   `-- C.jl
+|   |-- ABC181
+|   |   |-- A.hs
+|   |   |-- B.jl
+|   |   |-- C.jl
+|   |   `-- D.jl
+|   |-- ABC182
+|   |   |-- A.hs
+|   |   |-- B.jl
+|   |   `-- E.jl
+|   |-- ARC104
+|   |   `-- A.hs
+|   |-- DP
+|   |   |-- A.jl
+|   |   `-- B.jl
+|   |-- HKKB2020
+|   |   `-- A.hs
+|   |-- Practice
+|   |   |-- A.c
+|   |   `-- B.c
+|   `-- TokioMarine2020
+|       `-- B.jl
+|-- CS_Academy
+|   `-- Archive
+|       `-- Odd\ Sum.c
+|-- Code_Jam
+|   `-- 2019
+|       `-- Qualification
+|           `-- A.c
+|-- Codeforces
+|   |-- 122
+|   |   `-- B.c
+|   |-- 1370
+|   |   `-- A.c
+|   |-- 1374
+|   |   `-- A.c
+|   |-- 1399
+|   |   `-- A.hs
+|   `-- 4
+|       `-- A.hs
+`-- Kick_Start
+    `-- 2020
+        |-- A
+        |   `-- A.c
+        |-- E
+        |   `-- A.c
+        `-- F
+            `-- A.jl
 
 43 directories, 78 files
