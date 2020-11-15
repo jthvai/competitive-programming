@@ -100,9 +100,8 @@
 |   `-- Archive
 |       `-- Odd\ Sum.c
 |-- Code_Jam
-|   `-- 2019
-|       `-- Qualification
-|           `-- A.c
+|   `-- 51705
+|       `-- A.c
 |-- Codeforces
 |   |-- 122
 |   |   `-- B.c
@@ -115,12 +114,11 @@
 |   `-- 4
 |       `-- A.hs
 `-- Kick_Start
-    `-- 2020
-        |-- A
-        |   `-- A.c
-        |-- E
-        |   `-- A.c
-        `-- F
-            `-- A.jl
+    |-- 19FF47
+    |   `-- A.c
+    |-- 19FF48
+    |   `-- A.jl
+    `-- 19FFC7
+        `-- A.c
 
-43 directories, 80 files
+41 directories, 80 files
