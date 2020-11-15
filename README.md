@@ -21,7 +21,7 @@ See [INDEX](./INDEX) for the structure of this repository with all source files.
 - [`SumDivisors.jl`](https://gist.github.com/jthvai/bc75656bb7e4b9394f22ba58f31838bd): Sum of proper divisors of a number.
 - [`GeoMed.c`](https://gist.github.com/jthvai/86258849413fa3c0ebceb5dda363f2d7): Geometric median of a set of points.
 - [`Mergesort.c`](https://gist.github.com/jthvai/dc9c9ec09b5f2f223b7a383c5575d595): Polymorphic mergesort for arrays.
-- [`IntExp.c`, `ModIntExp.jl`](https://gist.github.com/jthvai/6366f2bec88fc26adf23292106c26dd5): Integer exponentiation via squaring and bitwise shifts; with and without modulus.
+- [`IntExp.c`](https://gist.github.com/jthvai/6366f2bec88fc26adf23292106c26dd5): Integer exponentiation via squaring and bitwise shifts.
 - [`Eratosthenes.c`, `.jl`](https://gist.github.com/jthvai/de9c2a5d6306016b684c5343f0eebacd): Sieve of Eratosthenes, with a 2-3 wheel.
 - [`Bijection.hs`](https://gist.github.com/jthvai/bf958da0bc6024f8e968186be4d667f5): A charming bijective function.
 
