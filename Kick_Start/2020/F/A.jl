@@ -1,8 +1,6 @@
 # SPDX-License-Identifier: X11
-# 2020-09-27
-# ATM Queue (5pts, 8pts)
-
-# !FIX MLE; change first dim to LL
+# 2020-11-15
+# ATM Queue (5pt, 8pt)
 
 function main()
   T = parse(Int, readline())
@@ -13,29 +11,20 @@ function main()
 end
 
 function solve()
-  N, X = parse.(Int, split(readline()))
-  A = parse.(Int, split(readline()))
-  order = Vector{Vector{Int}}()
-
-  for (i,x) ∈ enumerate(A)
-    t = cld(x, X)
-
-    if length(order) < t
-      for j ∈ 1:t - length(order)
-        push!(order, [])
-      end
-    end
-
-    append!(order[t], i)
+  N, X = parse.(Int, (split ∘ readline)())
+  A = (split ∘ readline)()
+  K = Vector{Tuple{Int, Int, Int}}()
+  for (i, s) ∈ enumerate(A)
+    x = parse(Int, s)
+    push!(K, (i, x, ceil(Int, x/X)))
   end
 
-  outstr = ""
-  for arr ∈ order
-    for x ∈ arr
-      outstr *= "$x "
-    end
+  sort!(K; alg=MergeSort, by = x -> x[3])
+
+  for (i, x, k) ∈ K[1:end - 1]
+    print("$i ")
   end
-  println(rstrip(outstr))
+  println(K[end][1])
 end
 
 main()

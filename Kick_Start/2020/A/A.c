@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: X11
 // 2020-08-04
-// Allocation (5pts, 7pts)
+// Allocation (5pt, 7pt)
 
 #include <stdio.h>
 #include <stdlib.h>
