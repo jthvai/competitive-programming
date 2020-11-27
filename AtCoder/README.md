@@ -19,7 +19,7 @@ Solutions for [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users
 | [ABC159](./ABC159/)                   | (1/6) A             | [AtCoder Beginner Contest 159](https://atcoder.jp/contests/abc159)
 | [ABC160](./ABC160/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 160](https://atcoder.jp/contests/abc160)
 | [ABC161](./ABC161/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 161](https://atcoder.jp/contests/abc161)
-| [ABC162](./ABC162/)                   | (2/6) A, B          | [AtCoder Beginner Contest 162](https://atcoder.jp/contests/abc162)
+| [ABC162](./ABC162/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 162](https://atcoder.jp/contests/abc162)
 | [ABC163](./ABC163/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 163](https://atcoder.jp/contests/abc163)
 | [ABC164](./ABC164/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 164](https://atcoder.jp/contests/abc164)
 | [ABC165](./ABC165/)                   | (2/6) A, B          | [AtCoder Beginner Contest 165](https://atcoder.jp/contests/abc165)
