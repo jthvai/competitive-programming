@@ -34,5 +34,8 @@
 | 25  | 2020-10-20 | 5%     | Julia    | [1000-digit Fibonacci number](https://projecteuler.net/problem=25)
 | 26  | 2020-11-15 | 5%     | Julia    | [Reciprocal cycles](https://projecteuler.net/problem=26)
 | 27  | 2020-11-15 | 5%     | Julia    | [Quadratic primes](https://projecteuler.net/problem=27)
+| 28  | 2020-12-01 | 5%     | Haskell  | [Number spiral diagonals](https://projecteuler.net/problem=28)
+| 29  | 2020-12-01 | 5%     | Haskell  | [Distinct powers](https://projecteuler.net/problem=29)
+| 30  | 2020-12-01 | 5%     | Haskell  | [Digit fifth powers](https://projecteuler.net/problem=30)
 | 37  | 2020-08-14 | 5%     | C        | [Truncatable primes](https://projecteuler.net/problem=37)
 | 67  | 2020-09-04 | 5%     | Julia    | [Maximum path sum II](https://projecteuler.net/problem=67)
