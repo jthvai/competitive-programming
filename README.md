@@ -3,6 +3,7 @@
 
 This repository includes solutions, in their respective directories, for:
 
+- [Advent of Code](https://adventofcode.com/)
 - [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users/jthvai), [Statistics](https://kenkoooo.com/atcoder#/user/jthvai))
 - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 - [Codeforces](https://codeforces.com/) ([Profile](https://codeforces.com/profile/jthvai))
