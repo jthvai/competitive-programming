@@ -34,7 +34,7 @@ Solutions for [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users
 | [ABC153](./ABC153/)                   | (2/6) A, B          | [AtCoder Beginner Contest 153](https://atcoder.jp/contests/abc153)
 | [ABC154](./ABC154/)                   | (2/6) A, B          | [AtCoder Beginner Contest 154](https://atcoder.jp/contests/abc154)
 | [ABC155](./ABC155/)                   | (2/6) A, B          | [AtCoder Beginner Contest 155](https://atcoder.jp/contests/abc155)
-| [ABC156](./ABC156/)                   | (1/6) A             | [AtCoder Beginner Contest 156](https://atcoder.jp/contests/abc156)
+| [ABC156](./ABC156/)                   | (1/6) A, C          | [AtCoder Beginner Contest 156](https://atcoder.jp/contests/abc156)
 | [ABC157](./ABC157/)                   | (1/6) A             | [AtCoder Beginner Contest 157](https://atcoder.jp/contests/abc157)
 | [ABC158](./ABC158/)                   | (2/6) A, B          | [AtCoder Beginner Contest 158](https://atcoder.jp/contests/abc158)
 | [ABC159](./ABC159/)                   | (3/6) A&ndash;C     | [AtCoder Beginner Contest 159](https://atcoder.jp/contests/abc159)
