@@ -17,6 +17,7 @@ Solutions for [AtCoder](https://atcoder.jp/) ([Profile](https://atcoder.jp/users
 | [ABC111 & ARC103](./ABC111_&_ARC103/) | (1/6) C             | [AtCoder Beginner Contest 111](https://atcoder.jp/contests/abc111) & [AtCoder Regular Contest 103](https://atcoder.jp/contests/arc103)
 | [DP](./DP/)                           | (4/26) A&ndash;D    | [Educational DP Contest](https://atcoder.jp/contests/dp)
 | [ABC128](./ABC128/)                   | (1/6) A             | [AtCoder Beginner Contest 128](https://atcoder.jp/contests/abc128)
+| [ABC130](./ABC130/)                   | (1/6) A             | [AtCoder Beginner Contest 130](https://atcoder.jp/contests/abc130)
 | [ABC133](./ABC133/)                   | (1/6) A             | [AtCoder Beginner Contest 133](https://atcoder.jp/contests/abc133)
 | [ABC136](./ABC136/)                   | (1/6) A             | [AtCoder Beginner Contest 136](https://atcoder.jp/contests/abc136)
 | [ABC137](./ABC137/)                   | (1/6) A             | [AtCoder Beginner Contest 137](https://atcoder.jp/contests/abc137)
