@@ -61,7 +61,8 @@
 │   ├── ABC126
 │   │   └── A.hs
 │   ├── ABC127
-│   │   └── A.hs
+│   │   ├── A.hs
+│   │   └── B.hs
 │   ├── ABC128
 │   │   └── A.hs
 │   ├── ABC129
@@ -104,7 +105,8 @@
 │   │   └── C.hs
 │   ├── ABC143
 │   │   ├── A.hs
-│   │   └── B.hs
+│   │   ├── B.hs
+│   │   └── C.hs
 │   ├── ABC144
 │   │   ├── A.hs
 │   │   └── B.hs
@@ -118,7 +120,8 @@
 │   │   └── B.hs
 │   ├── ABC148
 │   │   ├── A.hs
-│   │   └── B.hs
+│   │   ├── B.hs
+│   │   └── C.hs
 │   ├── ABC150
 │   │   ├── A.hs
 │   │   └── B.hs
@@ -317,4 +320,4 @@
     └── 19FFC7
         └── A.c
 
-104 directories, 213 files
+104 directories, 216 files
